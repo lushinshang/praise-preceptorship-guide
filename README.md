@@ -2,7 +2,7 @@
 
 Microsoft Developer 的一場三人對談：Scott Hanselman、CMU 的 Michael Hilton 與 Microsoft 工程師 Julia Gao，談 Microsoft 與 CMU 合作的 PRAISE（Preceptorship for AI-accelerated Software Engineering）計畫。本導讀依影片、Microsoft 官方文章、CMU 新聞稿與 CACM 論文整理，講者的話與編者看法分開標示。
 
-網頁版：https://lushinshang.github.io/praise-preceptorship-guide/（2026-10-19 發布）
+網頁版：https://lushinshang.github.io/praise-preceptorship-guide/（2026-10-19 發布；本機保留 research／qa 製作紀錄，不上傳）
 
 ## 200字介紹
 
@@ -14,7 +14,7 @@ AI 讓資深工程師產出大增，企業因此出現「雇資深、自動化�
 |------|------|
 | `praise-preceptorship-guide.md` | 導讀正文（Markdown） |
 | `index.html` | 單檔網頁版，瀏覽器直接開啟即可閱讀（Mermaid 流程圖需連網載入） |
-| `images/` | 導讀配圖（`images/web/` 為 WebP）：hero、fig1、fig2 各有 16:9 與 9:16 兩版（hero 圖內無字）；另有分享預覽圖 `og.png`（由 hero 置中裁切，1200×630） |
+| `images/` | 導讀配圖（`images/web/` 為 WebP）：hero、fig1–fig4 各有 16:9 與 9:16 兩版（hero 圖內無字）；另有分享預覽圖 `og.png`（由 hero 置中裁切，1200×630） |
 | `README.md` | 本檔 |
 | `share_post.md` | 社群分享文 |
 

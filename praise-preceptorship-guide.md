@@ -125,6 +125,10 @@ Hanselman 聽完注意到，兩位來賓一直在說 context，說這個字有�
 
 Julia 的版本比較貼近日常。一個產品通常橫跨多個 repo，各有各的複雜度；AI 很擅長解決一個 repo 裡的一個問題，但她認為它目前不太會把自己放進整個系統來看，改了這裡，可能在別處壞掉。她說，工程師自己和 preceptor 的知識就在這裡派上用場，他們知道一個功能在整個產品裡的位置。Hanselman 引了一句他不記得出處的話：AI 很容易寫 feature，不容易寫 architecture。Julia 用蓋房子回應：AI 可以很擅長蓋其中一個部分，但它也得明白那個部分擺在整棟房子的哪裡。
 
+![要懂多深看脈絡：Uber 與 F1、小腳本與關鍵基礎建設、封包送到對街與送上月球](images/web/fig3_16x9.webp)
+
+*圖：Uber 的比喻由 Hanselman 提問時先提出、Hilton 接著延伸，另外兩組是 Hilton 舉的例子；底部那句出自 Hilton 稍後談軟體工程的段落。編者整理，非講者原圖。*
+
 ## 軟體工程不等於寫程式
 
 Hilton 與 Mary Shaw 在 2025 年 11 月發表《紐約時報》評論〈[You're a Computer Science Major. Don't Panic.](https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html)〉。Hanselman 借孩子笑他的話，說這篇評論「very toxically positive」，但他讀來覺得很安心：文章說重要的是學會讀、理解、評論，當電腦程式的引導者。被問到快一年後這篇還站得住嗎，Hilton 說：「honestly I think it does」。
@@ -148,6 +152,10 @@ Hilton 說，還不到只讀和評論，但這部分確實大很多。他女兒�
 Hanselman 說自己以前是寫程式慢，現在換了一種慢：要讀、要審，然後等 build server。Julia 同意，而且說得更細。第一是讀懂 AI 寫的程式，並確認它真的照你要的做；小改動通常沒問題，邏輯多一點的大改動就要花心力。第二是 build。第三是現在 PR 也有 AI 審查，每一則意見她都得判斷要不要處理，因為有時照做之後，AI 改了更多檔案，「expands the scope of your work item」，她只好說「wait, wait, wait」，請它退回。她的結論是：「It's not the actual coding part that takes time now.」時間花在「making that code be ready for production」，因為負責的人是她。
 
 Hanselman 說他自己一直在運用對 code smell 的感覺和品味，也問 Julia 是不是覺得自己每天都在練判斷力。他還說，一百萬隻猴子配一百萬台打字機，終究也寫得出軟體，但「it's up to us to decide what's good and what's bad」。
+
+![Julia 的工作怎麼變：從實習時自己寫程式，到全職後審查 AI 的產出並為它負責](images/web/fig4_16x9.webp)
+
+*圖：依 Julia 的描述整理；「PR 掛的是她的名字」是 Hanselman 接話時的說法。編者整理，非講者原圖。*
 
 ## hidden curriculum：品味與判斷，要明講
 
