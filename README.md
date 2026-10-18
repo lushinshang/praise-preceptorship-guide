@@ -2,7 +2,7 @@
 
 Microsoft Developer 的一場三人對談：Scott Hanselman、CMU 的 Michael Hilton 與 Microsoft 工程師 Julia Gao，談 Microsoft 與 CMU 合作的 PRAISE（Preceptorship for AI-accelerated Software Engineering）計畫。本導讀依影片、Microsoft 官方文章、CMU 新聞稿與 CACM 論文整理，講者的話與編者看法分開標示。
 
-網頁版：https://lushinshang.github.io/praise-preceptorship-guide/（2026-10-19 發布；本機保留 research／qa 製作紀錄，不上傳）
+網頁版：https://lushinshang.github.io/praise-preceptorship-guide/（2026-10-19 發布）
 
 ## 200字介紹
 
